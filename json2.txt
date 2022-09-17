@@ -1,0 +1,1 @@
+{"image":"https://raw.githubusercontent.com/loganever/File/main/world.jpg","attributes":[{"trait_type":"color","value":"various"},{"trait_type":"size","value":"big"},{"trait_type":"world","value":"empty"}]}
