@@ -1,1 +1,0 @@
-{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/1200px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png","attributes":[{"trait_type":"color","value":"various"},{"trait_type":"size","value":"big"},{"trait_type":"world","value":"empty"}]}
